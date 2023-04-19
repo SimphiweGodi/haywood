@@ -141,7 +141,7 @@ body {
   color: gold;
   /* max-width: 1000px; */
   font: 300 50px/1.2 "Oswald", sans-serif;
-  /* letter-spacing: 0.35em; */
+  letter-spacing: 0.3em;
   text-transform: uppercase;
 }
 .slideshow .slide .text {
