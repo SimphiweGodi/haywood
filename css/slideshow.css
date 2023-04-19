@@ -138,7 +138,7 @@ body {
 }
 .slideshow .slide .tit {
   margin: 0 auto 15px;
-  color: gold;
+  color: blue;
   /* max-width: 1000px; */
   font: 300 50px/1.2 "Oswald", sans-serif;
   letter-spacing: 0.3em;
