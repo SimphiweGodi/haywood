@@ -249,13 +249,11 @@ body {
   .slideshow .slide .text {
     margin: 2px auto;
     max-width: 500px;
-    color: yellow;
-    font-size: 12px;
+    font-size: 18px;
   }
   .slideshow .slide .tit {
-    margin: 0 auto 15px;
     max-width: 500px;
     letter-spacing: 0.1em;
-    /* text-transform: uppercase; */
+    
   }
 }
