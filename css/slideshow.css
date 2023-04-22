@@ -247,7 +247,7 @@ body {
 }
 @media(max-width: 575px){
   .slideshow .slide .text {
-    margin: 2px auto;
+    margin: 0;
     max-width: 500px;
     color: yellow;
     font-size: 12px;
