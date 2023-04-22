@@ -255,7 +255,7 @@ body {
     margin: 0 auto 15px;
     max-width: 500px;
     font: 300 50px/1.2 "Oswald", sans-serif;
-    letter-spacing: normal;
+    letter-spacing: 0.3em;
     /* text-transform: uppercase; */
   }
 }
