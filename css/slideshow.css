@@ -231,8 +231,21 @@ body {
 @media(min-width: 768px){
   .slideshow .slide .text {
     margin: 0 auto;
-    max-width: 500px;
+    max-width: 1000px;
     font-size: 10px;
-    line-height: 1;
+  }
+}
+@media(max-width: 767px){
+  .slideshow .slide .text {
+    margin: 0 auto;
+    max-width: 1000px;
+    font-size: 10px;
+  }
+}
+@media(max-width: 575px){
+  .slideshow .slide .text {
+    margin: 0 auto;
+    max-width: 1000px;
+    font-size: 10px;
   }
 }
