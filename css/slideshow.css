@@ -251,4 +251,11 @@ body {
     color: yellow;
     font-size: 10px;
   }
+  .slideshow .slide .tit {
+    margin: 0 auto 15px;
+    max-width: 500px;
+    font: 300 50px/1.2 "Oswald", sans-serif;
+    letter-spacing: normal;
+    /* text-transform: uppercase; */
+  }
 }
