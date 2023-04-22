@@ -140,7 +140,7 @@ body {
 .slideshow .slide .tit {
   margin: 0 auto 15px;
   max-width: 1000px;
-  font-family: 'Courier New', Courier, monospace;
+  font: 300 50px/1.2 'Courier New', Courier, monospace;
   letter-spacing: 0.3em;
   text-transform: uppercase;
 }
@@ -255,7 +255,6 @@ body {
   .slideshow .slide .tit {
     margin: 0 auto 15px;
     max-width: 500px;
-    font: 300 50px/1.2 "Oswald", sans-serif;
     letter-spacing: 0.1em;
     /* text-transform: uppercase; */
   }
