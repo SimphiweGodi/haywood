@@ -247,7 +247,7 @@ body {
 }
 @media(max-width: 575px){
   .slideshow .slide .text {
-    margin: 0;
+    margin: 2px auto;
     max-width: 500px;
     color: yellow;
     font-size: 12px;
@@ -255,7 +255,7 @@ body {
   .slideshow .slide .tit {
     margin: 0 auto 15px;
     max-width: 500px;
-    /* font: 300 50px/1.2 "Oswald", sans-serif;  */
+    font: 300 50px/1.2 "Oswald", sans-serif;
     letter-spacing: 0.1em;
     /* text-transform: uppercase; */
   }
