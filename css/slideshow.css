@@ -227,3 +227,12 @@ body {
   fill: transparent;
   transition: left 0.2s ease;
 }
+
+@media(min-width: 768px){
+  .slideshow .slide .text {
+    margin: 0 auto;
+    max-width: 500px;
+    font-size: 10px;
+    line-height: 1;
+  }
+}
